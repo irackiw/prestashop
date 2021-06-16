@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Siedem wskazówek, jak przygotować się do wyprzedaży</title>
+    <link>https://www.prestashop.com/pl/blog/wskazowek-sprzedazy</link>
+    <description>W większości krajów Europy letnie wyprzedaże rozpoczną się pod koniec miesiąca: 30 czerwca we Francji, a w pierwszych dniach l</description>
+     <pubDate>Mon, 14 Jun 2021 18:20:05 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wskazowek-sprzedazy</guid>
+  </item>
+  <item>
+    <title>4 wskaźniki efektywności kampanii PPC, które warto mierzyć w eCommerce</title>
+    <link>https://www.prestashop.com/pl/blog/kampanii-ppc-ecommerce</link>
+    <description>Utworzenie kampanii reklamowej PPC (Pay Per Click) nie jest wyjątkowo trudne. Sztuką natomiast jest taka jej optymalizacja, aby osiągać jak najlepsze wyniki jak najniższym kosztem.</description>
+     <pubDate>Thu, 10 Jun 2021 15:04:06 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/kampanii-ppc-ecommerce</guid>
+  </item>
+  <item>
+    <title>E-commerce: jakie KPI? Czemu to służy?</title>
+    <link>https://www.prestashop.com/pl/blog/ecommerce-kpi</link>
+    <description>Kluczowe wskaźniki wydajności są niezbędne do pomiaru efektywności Twojego sklepu internetowego, ale przede wszystkim rentowności i trwałości Twojego biznesu.</description>
+     <pubDate>Wed, 09 Jun 2021 11:49:31 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/ecommerce-kpi</guid>
+  </item>
+  <item>
+    <title>PrestaShop Day Poland już się zakończył !</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-day-poland</link>
+    <description>Droga Wspólnoto,</description>
+     <pubDate>Fri, 28 May 2021 11:54:58 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-day-poland</guid>
+  </item>
+  <item>
+    <title>Wysyłka za pobraniem - wady i zalety</title>
+    <link>https://www.prestashop.com/pl/blog/wysylka-pobraniem-wady-zalety</link>
+    <description>Wysyłka za pobraniem to najbardziej archaiczna z metod płatności za zakupy w internecie.</description>
+     <pubDate>Thu, 27 May 2021 15:51:28 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wysylka-pobraniem-wady-zalety</guid>
+  </item>
+  <item>
+    <title>PrestaShop Facebook: za kulisami jego rozwoju i spojrzenie w przyszłość</title>
+    <link>https://www.prestashop.com/pl/blog/interview-prestashop-facebook</link>
+    <description>W lutym 2021 roku, PrestaShop zaprezentowała nowy moduł dla handlowców, </description>
+     <pubDate>Wed, 26 May 2021 16:43:42 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/interview-prestashop-facebook</guid>
+  </item>
+  <item>
+    <title>Jak wybrać bramkę płatności dla swojego sklepu internetowego</title>
+    <link>https://www.prestashop.com/pl/blog/wybrac-bramke-platnosci</link>
+    <description>Koronawirus zmusił sprzedawców do zmiany modelu biznesowego i skupienia się bardziej na sprzedaży online, aby nadążyć za okolicznościami i popytem.</description>
+     <pubDate>Tue, 25 May 2021 17:12:08 +0200</pubDate>
+ <dc:creator>Alexandros Pappas</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wybrac-bramke-platnosci</guid>
+  </item>
+  <item>
+    <title>Sześć działań marketingowych, które należy wdrożyć, aby zwiększyć obroty</title>
+    <link>https://www.prestashop.com/pl/blog/dzialan-marketingowych-zwiekszyc-obroty</link>
+    <description>Umieściliśmy kilka wskazówek i „trików”, które – w połączeniu z odpowiednimi modułami PrestaShop – mogą pomóc zoptymalizować strategię marketingową Twojego sklepu internetowego, a tym samym poprawi</description>
+     <pubDate>Tue, 18 May 2021 11:34:36 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/dzialan-marketingowych-zwiekszyc-obroty</guid>
+  </item>
+  <item>
+    <title>Płatności transgraniczne w sklepach internetowych. Pierwszy krok do podboju zagranicznych rynków eCommerce.</title>
+    <link>https://www.prestashop.com/pl/blog/platnosci-transgraniczne-internetowych</link>
+    <description>Rozpoczęcie międzynarodowej sprzedaży online nie jest rzeczą łatwą, ale na pewno wartą rozważenia, jeżeli chcesz rozwijać swój sklep internetowy i poważnie skalować e-biznes.</description>
+     <pubDate>Fri, 14 May 2021 16:06:22 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/platnosci-transgraniczne-internetowych</guid>
+  </item>
+  <item>
+    <title>PrestaShop Talks Polska - rozmowa z Dawidem Klamką z Ubierzswojesciany.pl</title>
+    <link>https://www.prestashop.com/pl/blog/dawidem-klamka-ubierzswojesciany</link>
+    <description>Kolejna inspirująca rozmowa w ramach PrestaShop Talks Polska za nami.</description>
+     <pubDate>Mon, 10 May 2021 18:02:31 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/dawidem-klamka-ubierzswojesciany</guid>
+  </item>
+  </channel>
+</rss>
